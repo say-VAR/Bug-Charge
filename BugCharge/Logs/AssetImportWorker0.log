@@ -600,3 +600,91 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:scripting/monoscript/fileName/StopwatchExtensions.cs: 69465d1ffaffee63daa703ad5e20aa30 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1121.846052 seconds.
+  path: Assets/Editor/Vuforia/cube
+  artifactKey: Guid(6546627cd06884cc1be5bce95077095b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Editor/Vuforia/cube using Guid(6546627cd06884cc1be5bce95077095b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'afab160df74effd94943cc3605830b38') in 0.006383 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 26.570689 seconds.
+  path: Assets/Resources/VuforiaModels/cube/cube/Materials/default--constant-color0.mat
+  artifactKey: Guid(2d80fc71b8f2944d5a0e42840d8c6aaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/VuforiaModels/cube/cube/Materials/default--constant-color0.mat using Guid(2d80fc71b8f2944d5a0e42840d8c6aaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ff90f1be18986cc84b774677a237e37') in 0.251802 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 20.178656 seconds.
+  path: Assets/Resources/VuforiaModels
+  artifactKey: Guid(756b1e9186e364addae75fad2699eee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/VuforiaModels using Guid(756b1e9186e364addae75fad2699eee5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '142ca12430b97287f48febe92783c774') in 0.000268 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.071452 seconds.
+  path: Assets/Resources/VuforiaModels/VuforiaMars_ModelTarget
+  artifactKey: Guid(3ff4c9a520cdb4da68c5d7e9e5e2b2d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/VuforiaModels/VuforiaMars_ModelTarget using Guid(3ff4c9a520cdb4da68c5d7e9e5e2b2d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a53a4ef0543ce231c83cde224ff49497') in 0.000265 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.074481 seconds.
+  path: Assets/Resources/VuforiaModels/VuforiaMars_ModelTarget/VuforiaMars_ModelTarget.prefab
+  artifactKey: Guid(2f701f5d6b7d3435b8fc2ed8fe4221fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/VuforiaModels/VuforiaMars_ModelTarget/VuforiaMars_ModelTarget.prefab using Guid(2f701f5d6b7d3435b8fc2ed8fe4221fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3159bd9e1aa92775ffdb4aa836d4bb91') in 0.089650 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time since last request: 1.053711 seconds.
+  path: Assets/Resources/VuforiaModels/VuforiaMars_ModelTarget/VuforiaMars_ModelTarget
+  artifactKey: Guid(26c32d73b7a7a4c01a153e987bbe7a0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/VuforiaModels/VuforiaMars_ModelTarget/VuforiaMars_ModelTarget using Guid(26c32d73b7a7a4c01a153e987bbe7a0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56e4cecdc5b813d06f41115bb9ddf609') in 0.000281 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1331.516496 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(bb4857cbd09124d5bb7532c1764e8cd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(bb4857cbd09124d5bb7532c1764e8cd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00c01a56721455005d7c2eae03323a2e') in 0.002728 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 9.015993 seconds.
+  path: Assets/Scenes/New Scene.unity
+  artifactKey: Guid(d1a03bbebd60c495c856d0bc56623462) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/New Scene.unity using Guid(d1a03bbebd60c495c856d0bc56623462) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '116df8803580192ff9acc19e735a516b') in 0.000428 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.486472 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '338c5054336e288a281fa5896ab72a84') in 0.000279 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.603744 seconds.
+  path: Assets/Scenes/SampleScene 1.unity
+  artifactKey: Guid(e59f293f3bfb74691934ec51ad4a65ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene 1.unity using Guid(e59f293f3bfb74691934ec51ad4a65ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1615081521ff58eb10bd460526849a9c') in 0.000378 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 14.604103 seconds.
+  path: Assets/Scenes/ModelTargetingScene.unity
+  artifactKey: Guid(e59f293f3bfb74691934ec51ad4a65ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/ModelTargetingScene.unity using Guid(e59f293f3bfb74691934ec51ad4a65ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23a17a07ffa8045279db7c1fb95d9a41') in 0.000345 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0

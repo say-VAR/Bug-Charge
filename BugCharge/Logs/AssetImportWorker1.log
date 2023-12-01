@@ -552,3 +552,11 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:scripting/monoscript/fileName/StopwatchExtensions.cs: 69465d1ffaffee63daa703ad5e20aa30 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 218051.548855 seconds.
+  path: Assets/Resources/VuforiaModels/VuforiaMars_ModelTarget/VuforiaMars_ModelTarget/Materials/default--constant-color0.mat
+  artifactKey: Guid(7b716ab88d10545d1bfae20ebfad7aab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/VuforiaModels/VuforiaMars_ModelTarget/VuforiaMars_ModelTarget/Materials/default--constant-color0.mat using Guid(7b716ab88d10545d1bfae20ebfad7aab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f5c1fc9b015a44d2a01a61492160600') in 0.246312 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
