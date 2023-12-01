@@ -1,3 +1,4 @@
 TestProject/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
 *.tgz filter=lfs diff=lfs merge=lfs -text
 BugCharge/Library/ArtifactDB filter=lfs diff=lfs merge=lfs -text
+BugCharge/BugCharge_iOS/Libraries/libiPhone-lib.a filter=lfs diff=lfs merge=lfs -text
